@@ -1,1 +1,2 @@
 # Decision-Tree
+A decision tree is a structure that resembles a flowchart and is used to forecast or make decisions. It is made up of nodes that represent attribute tests or decisions, branches that show the results of these tests or decisions, and leaf nodes that show the conclusions or predictions that are reached. Every internal node represents an attribute test, every branch represents the test's outcome, and every leaf node represents a class label or a continuous value.
